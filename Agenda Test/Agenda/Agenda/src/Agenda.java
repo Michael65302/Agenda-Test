@@ -22,7 +22,7 @@ public class Agenda {
         else if (opcion.equals("3")) {
                 System.out.println("Buscar contacto");
         }
-        else if (opcion.equals("4")) {
+        else if (opcion.equals("4")) { // Nombre
                 System.out.println("Salir");
 
             }
